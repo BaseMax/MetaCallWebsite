@@ -13,14 +13,14 @@ main:
 	section_title: Push code
 	section_subtitle: get enterprise-class infrastructure.
 
-	feature1: Serverless Locally
+	feature1: بصورت محلی بدون سرور
 	feature1_text: Develop and test your Serverless projects locally like in production. Use your favorite frameworks.
 
-	feature2: Plug your Repository
+	feature2: امکان اتصال به مخزن
 	feature2_text: MetaCall will convert your code into a Function Mesh and auto-scale individual hot parts of your code.
 
-	feature3: Time to Market
-	feature3_text: Simplify things and speedup time to market. Focus only on your business logic and forget about DevOps.
+	feature3: متمرکز شدن روی بازار
+	feature3_text: کارها را ساده و به آنها سرعت ببخشید تا به مرحله بازار کار خود برسید. فقط روی منطق کسب و کار خود متمرکز شوید و DevOps را فراموش نکنید.
 	
 	access: Request access to the private Beta!
 	access_enter_email: Enter your email...
