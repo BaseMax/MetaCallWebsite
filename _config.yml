@@ -1,1 +1,7 @@
-
+url: http://basemax.github.io/MetaCallWebsite
+languages: ["en", "fa"]
+exclude_from_localizations: ["assets", "images", "CNAME"]
+defaultLang: en
+languageNames:
+  fa: Persian
+  en: English
