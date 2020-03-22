@@ -10,14 +10,23 @@ main:
 	faq: FAQ
 	github: GitHub
 
-	sectionTitle: Push code
-	sectionSubtitle: get enterprise-class infrastructure.
+	section_title: Push code
+	section_subtitle: get enterprise-class infrastructure.
 
 	feature1: Serverless Locally
-	feature1text: Develop and test your Serverless projects locally like in production. Use your favorite frameworks.
+	feature1_text: Develop and test your Serverless projects locally like in production. Use your favorite frameworks.
 
 	feature2: Plug your Repository
-	feature2text: MetaCall will convert your code into a Function Mesh and auto-scale individual hot parts of your code.
+	feature2_text: MetaCall will convert your code into a Function Mesh and auto-scale individual hot parts of your code.
 
 	feature3: Time to Market
-	feature3text: Simplify things and speedup time to market. Focus only on your business logic and forget about DevOps.
+	feature3_text: Simplify things and speedup time to market. Focus only on your business logic and forget about DevOps.
+	
+	access: Request access to the private Beta!
+	access_enter_email: Enter your email...
+	access_button: Request Access
+
+	footer_privacy: Privacy Policy
+	footer_terms: Terms and Conditions
+	footer_copyright: Copyright © 2018 - 2019 MetaCall.
+	footer_all_rights: All Rights Reserved
