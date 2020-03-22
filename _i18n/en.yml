@@ -2,3 +2,22 @@ site:
 	name: MetaCall | Push code to generate APIs and deploy a Function Mesh
 	description: From DevOps to NoOps automatically, switch now to serverless. Push your code to generate APIs and deploy a Function Mesh in the cloud on autopilot.
 	keywords: function mesh, serverless, faas, function, mesh, function-as-a-service, docker, containerization, containerless, services, microservices, devOps, noOps, ops, cloud, baas, backend-as-a-service, backend, web, autoscaling, autoscalable, scalable, performance, API, APIs, metacall, dev, developer, computing, distributed, systems, architectures, javascript, python, c#, node.js, ruby, monolithic, fog
+
+main:
+	news: News
+	home: Home
+	login: Login
+	faq: FAQ
+	github: GitHub
+
+	sectionTitle: Push code
+	sectionSubtitle: get enterprise-class infrastructure.
+
+	feature1: Serverless Locally
+	feature1text: Develop and test your Serverless projects locally like in production. Use your favorite frameworks.
+
+	feature2: Plug your Repository
+	feature2text: MetaCall will convert your code into a Function Mesh and auto-scale individual hot parts of your code.
+
+	feature3: Time to Market
+	feature3text: Simplify things and speedup time to market. Focus only on your business logic and forget about DevOps.
