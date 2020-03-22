@@ -4,11 +4,11 @@ site:
 	keywords: function mesh, serverless, faas, function, mesh, function-as-a-service, docker, containerization, containerless, services, microservices, devOps, noOps, ops, cloud, baas, backend-as-a-service, backend, web, autoscaling, autoscalable, scalable, performance, API, APIs, metacall, dev, developer, computing, distributed, systems, architectures, javascript, python, c#, node.js, ruby, monolithic, fog
 
 main:
-	news: News
-	home: Home
-	login: Login
-	faq: FAQ
-	github: GitHub
+	news: اخبار
+	home: صفحه اصلی
+	login: ورود
+	faq: پرسش و پاسخ ها
+	github: گیت هاب
 
 	section_title: Push code
 	section_subtitle: get enterprise-class infrastructure.
@@ -32,7 +32,7 @@ main:
 	footer_all_rights: All Rights Reserved
 
 faq:
-	back: GO BACK
-	title: FAQ
+	back: برگشت
+	title: پرسش و پاسخ های محبوب
 	# subtitle: MetaCall Frequently Asked Questions.
 	# update: April 6, 2019
