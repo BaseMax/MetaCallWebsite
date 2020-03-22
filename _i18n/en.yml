@@ -30,3 +30,9 @@ main:
 	footer_terms: Terms and Conditions
 	footer_copyright: Copyright © 2018 - 2019 MetaCall.
 	footer_all_rights: All Rights Reserved
+
+faq:
+	back: GO BACK
+	title: FAQ
+	subtitle: MetaCall Frequently Asked Questions.
+	update: April 6, 2019
